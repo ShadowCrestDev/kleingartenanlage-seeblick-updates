@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Kleingartenanlage Seeblick Updates</title>
+    <link>https://shadowcrestdev.github.io/kleingartenanlage-seeblick-updates/appcast.xml</link>
+    <description>Updates für die Vereinssoftware</description>
+    <language>de</language>
+
+    <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Wed, 19 Mar 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/ShadowCrestDev/kleingartenanlage-seeblick-updates/releases/download/v1.0.2/Kleingartenanlage-Seeblick-Setup.exe"
+        sparkle:version="1.0.3"
+        sparkle:signature="K/8+iBycin6GpDgHoAA0zmMIx/6N70GEndlkw0ws3P8frZxgLENG8uqmtw+pGTMck2hPjP/KPFaoUv84l4lQCw=="
+        length="0"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
+

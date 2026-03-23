@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+appcast.xml text eol=lf
+appcast.xml.signature text eol=lf
+index.html text eol=lf
+.nojekyll text eol=lf
