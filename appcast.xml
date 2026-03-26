@@ -7,12 +7,12 @@
     <language>de</language>
 
     <item>
-      <title>Version 1.0.4</title>
+      <title>Version 1.0.5</title>
       <pubDate>Wed, 19 Mar 2026 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/ShadowCrestDev/kleingartenanlage-seeblick-updates/releases/download/v1.0.4/Kleingartenanlage-Seeblick-Setup.exe"
-        sparkle:version="1.0.4"
-        sparkle:signature="QLQ49jvIBlUmL20NMonqlpTQomaE185HBcwuyDxPDulfkLbaSd9IR5kdn79Q9C3uuk+w+cPhnRGvlA26P9aIDw=="
+        url="https://github.com/ShadowCrestDev/kleingartenanlage-seeblick-updates/releases/download/v1.0.5/Kleingartenanlage-Seeblick-Setup.exe"
+        sparkle:version="1.0.5"
+        sparkle:signature="RQnE0jCnV9Jeimvm4CYwcMTGZHlRe+QVmgyLkAGzjlW8IsFeSsNoVK0pVpZ71jpN+3dXeXsYObZiqRLL2iLLBQ=="
         length="0"
         type="application/octet-stream" />
     </item>
